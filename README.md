@@ -1,0 +1,1 @@
+# Exodus-Wallet-Sdk-js-Secure-Cryptocompare-Api
